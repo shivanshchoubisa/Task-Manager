@@ -2,8 +2,8 @@
 
 A full-stack task manager built with **React (Vite)** and **Node.js + Express**. Tasks are stored **in backend memory only** (no database), so data resets when the server restarts.
 
-- **Live demo:** https://YOUR-FRONTEND-URL.vercel.app
-- **API base URL:** https://YOUR-BACKEND-URL.onrender.com/api
+- **Live demo:** https://task-manager-rho-two-98.vercel.app
+- **API base URL:** https://task-manager-api-1kt1.onrender.com/api
 
 > The backend runs on a free tier and may take ~30–60 seconds to wake up on the first request.
 
